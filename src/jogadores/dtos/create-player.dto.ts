@@ -1,3 +1,4 @@
+// data transfer object DTO
 export class CreatePlayerDto {
   readonly phoneNumber: string;
   readonly email: string;
